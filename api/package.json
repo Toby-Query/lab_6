@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "func host start",
+    "start": "node /run/cars",
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
